@@ -1679,3 +1679,10 @@ SOME WALLETS:
  0x72fe3c398c9a030b9b2be1fe1ff07701167571d4 donquixuote.eth
  0x9c54a9c609212d2fd034b55cf3b42ba99af52880 msomnia.eth
  0x2e1bc66cd7243ab66738a17e6f58cc8389f03064 888mooncathot.eth
+
+
+
+GOOD RESOURCES: 
+ KOLAM contract   https://shapescan.xyz/token/0xbFcdEB33cf38eB8b0b5A201b6c4b5b1d8329b5D3?tab=read_write_contract
+ base64 decoding  https://www.base64decode.org/
+ conversion       https://www.binaryhexconverter.com/decimal-to-hex-converter
